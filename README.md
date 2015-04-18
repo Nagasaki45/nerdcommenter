@@ -18,10 +18,10 @@ See **|add-local-help|** for more details.
 
 ### Pathogen Install
 1. Navigate to your **[VIM_ROOT]/bundle** directory in your local Vim setup
-2. git clone https://github.com/scrooloose/nerdcommenter.git
+2. git clone https://github.com/Nagasaki45/nerdcommenter.git
 
 ### Vundle Install
-1. Add `Plugin 'scrooloose/nerdcommenter'` to your .vimrc file.
+1. Add `Plugin 'Nagasaki45/nerdcommenter'` to your .vimrc file.
 2. Run `:BundleInstall`
 
 ### Post Install
