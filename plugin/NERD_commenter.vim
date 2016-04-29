@@ -147,6 +147,7 @@ let s:delimiterMap = {
     \ 'ecd': { 'left': '#' },
     \ 'eclass': { 'left': '#' },
     \ 'eiffel': { 'left': '--' },
+    \ 'elixir': { 'left': '# ' },
     \ 'elf': { 'left': "'" },
     \ 'elmfilt': { 'left': '#' },
     \ 'erlang': { 'left': '%', 'leftAlt': '%%' },
